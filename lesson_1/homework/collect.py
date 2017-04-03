@@ -7,11 +7,11 @@ def unpack():
     files = os.listdir('files')
     print(files)
     for file in files:
-        if file[-2] == 'zip':
-    	dir_name = join('files/',file[:-4])
-    	os.makedir(dir_name)
-    	unpack_files = zipfile.ZipFile(file, 'r')
-    	unpack_files.extractall()
+        if file[-3:] == 'zip':
+            dir_name = os.path.join('files/',file[:-4])
+            os.makedirs(dir_name)
+            unpack_files = zipfile.ZipFile(file, "r")
+            unpack_files.extractall()
 
 
 unpack()
