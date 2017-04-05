@@ -2,3 +2,5 @@
 /misc.xml
 /modules.xml
 /workspace.xml
+*.xml
+*.git.iml
