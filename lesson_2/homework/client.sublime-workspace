@@ -1,0 +1,732 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"shot",
+				"shop-cat-gridx3"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"f",
+				"figure\tTag"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"tit",
+				"title_slide"
+			],
+			[
+				"pi",
+				"pinterest_icon"
+			],
+			[
+				"y",
+				"youtube_icon"
+			],
+			[
+				"fa",
+				"facebook_icon"
+			],
+			[
+				"margint",
+				"margin-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"ow",
+				"overflow"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"К",
+				"Коса"
+			],
+			[
+				"Кос",
+				"Косилка-робот"
+			],
+			[
+				"Ко",
+				"Косилка-робот"
+			],
+			[
+				"пл",
+				"Косилка-плющилка"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"border-b",
+				"border-bottom-left-radius"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"th",
+				"thin"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"P",
+				"Printf\tn int, err error ƒ"
+			],
+			[
+				"r",
+				"rez\t ν"
+			],
+			[
+				"re",
+				"rez1\t ν"
+			],
+			[
+				"Prin",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"Pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"fu",
+				"func\tFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/golang.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/golang.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: In",
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: REPL",
+				"Package Control: Create Package File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"go",
+				"GoSublime: Open Error Log"
+			],
+			[
+				"Pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"quite",
+			"exit",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"python3 manage.py runserver",
+			"python3 les02",
+			"python3 les02.py",
+			"env",
+			"pwd",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h =     '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aleksejsafarov/Documents/GB_Python2/lesson_3/README.MD",
+		"/Users/aleksejsafarov/Documents/GB_Python2/lesson_2/README.MD",
+		"/Users/aleksejsafarov/Documents/GB_Python2/lesson_2/homework/client.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/04/lesson_4/README.MD",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/aleksejsafarov/Documents/GB_Python2/lesson_2/homework/server.py",
+		"/Users/aleksejsafarov/Documents/python/g1/les5/easy5_1_rm.py",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/02/Задание 2.txt",
+		"/Users/aleksejsafarov/Desktop/untitled.py",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/01/lesson_1/homework/files/file1/parts.md5",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/01/lesson_1/homework/files/file1/0Bfd4ZT9",
+		"/Users/aleksejsafarov/Documents/GB_Python2/lesson_1/homework/calc_hash.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/02/lesson_2/README.MD",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/log.txt",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/aleksejsafarov/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/01/lesson_1/homework/need_hashes.csv",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/01/lesson_1/homework/pep8_me.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/python-magic-0.4.13/magic.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/python-magic-0.4.13/MANIFEST.in",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/01/lesson_1/homework/files/file2/parts.md5",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python2/01/dz1",
+		"/Users/aleksejsafarov/Documents/SAR_django/html/style.css",
+		"/Users/aleksejsafarov/Documents/SAR_django/italianСuisine/templates/base.html",
+		"/Users/aleksejsafarov/Documents/SAR_django/html/base.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/home.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/home.css",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/style.css",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/index.html",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/07/Gems/static/js/create_user.js",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/07/Gems/templates/admin_page.html",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/07/Gems/adminApp/views.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/05/AboutMe/AboutMe-master/demoproject/settings.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/05/AboutMe/AboutMe-master/templates/inc-place_works.html",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/05/AboutMe/AboutMe-master/mainapp/views.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Django/05/AboutMe/AboutMe-master/demoproject/urls.py",
+		"/Users/aleksejsafarov/Documents/SAR_django/.idea/django.iml",
+		"/Users/aleksejsafarov/Documents/codemy/mod6/6.5/Inheritance/src/Loader.java",
+		"/Users/aleksejsafarov/Documents/codemy/mod6/6.6/сущности.txt",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/7/Карен Петросян/py_lesson_6/normal/main.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/7/Карен Петросян/py_lesson_6/normal/defines.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/7/Карен Петросян/py_lesson_6/easy/easy.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/SQL/03.txt",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson08/home_work/hw0x_easy.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson07/home_work/hw0x_easy.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson06/home_work/hw06_hard.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/hard1.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/read_file.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/les3/easy_1.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/les3/normal_4.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson06/home_work/hw06_normal.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson06/home_work/hw06_easy.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson05/home_work/hw05_normal.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson05/home_work/hw05_hard.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Start/4/04/les01_04.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson05/home_work/hw05_easy.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson04/home_work/hw04_normal.py",
+		"/Users/aleksejsafarov/Documents/python/g1/les3/normal_3.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/home_work/hw03_normal.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/sum_kwargs.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/funks.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/funks_examples.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/funks_example.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/3/homework/files_example.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/ttt.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/examples/1_inside_func_p1.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/ttt",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/examples/2.4_inside_func_p2.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/examples/2.2_lambda.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson03/examples/2.3_func_part2.py",
+		"/Users/aleksejsafarov/Documents/python/g1/les2/dz3_hard.py",
+		"/Users/aleksejsafarov/Documents/python/g1/les2/dz1_normal.py",
+		"/Users/aleksejsafarov/Documents/python/g1/les2/dz2_normal.py",
+		"/Users/aleksejsafarov/Documents/python/g1/les2/dz2_easy.py",
+		"/Users/aleksejsafarov/Documents/python/test",
+		"/Users/aleksejsafarov/Documents/python/.git/hooks/pre-push",
+		"/Users/aleksejsafarov/Documents/python/.git/hooks/pre-push.sample",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/home_work/hw02_hard.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/home_work/hw02_normal.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/8_set_frozenset.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/7_dict.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/6_for_in.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/5_iterators!!!.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/4_tuple.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/3_list.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/2_string_format.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/examples/1_strings.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson02/home_work/hw02_easy.py",
+		"/Users/aleksejsafarov/Documents/python/g1/task2_easy_normal.py",
+		"/Users/aleksejsafarov/Documents/python/g1/task1_normal.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson01/home_work/hw01_normal.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson01/home_work/hw01_hard.py",
+		"/Users/aleksejsafarov/Yandex.Disk.localized/GeekBrains/Python/Python1/Python_lessons_basic-master/lesson01/home_work/hw01_easy.py",
+		"/Users/aleksejsafarov/Documents/codemy/mod5/5.5/PhoneBook/src/Loader.java",
+		"/Users/aleksejsafarov/Documents/python/les04.py",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/contact.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/productpage.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/shop-cat-gridx3.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/contact.css",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/productpage.css",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/surfhouse/shop-cat-gridx3.css",
+		"/Users/aleksejsafarov/Documents/python/les02.py",
+		"/Users/aleksejsafarov/Documents/codemy/untitled",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/contacts.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/style.css",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/manip_kos.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/home.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/home.css",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/productpage.html",
+		"/Users/aleksejsafarov/Documents/HTML/git/html css geekbrains/readme",
+		"/Users/aleksejsafarov/Documents/HTML/git/Ex6/untitled.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/style.css",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/contacts.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/manip_kos.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/tr_kos.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/products.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/index.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/home.css",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/home.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex6/goodinc.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex5/style.css",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex5/tr_kos.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex5/products.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex5/manip_kos.html",
+		"/Users/aleksejsafarov/Documents/HTML/geekbrains/Ex5/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"6f06c15465b567fcb774129be6efa843",
+			"c1ddf6d1591fee6cdc9ce80d6cfac277",
+			"fc7f3f6465a5b19878610a0eb1ef4bf6",
+			"9f09e99e1f13a18b2f21d487f89e1e58",
+			";\n",
+			"contents",
+			"contens",
+			"prod",
+			"}\n",
+			">\n",
+			"body",
+			"Строка5",
+			"Строка4",
+			"Строка3",
+			"Строка2",
+			"Косилка робот",
+			"робот"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/aleksejsafarov/Desktop/ответ/4.7/EnglishText/src":
+	{
+		"height": 200.0
+	},
+	"output.9o:///Users/aleksejsafarov/Documents/HTML/chart3":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/aleksejsafarov/Documents/go":
+	{
+		"height": 187.0
+	},
+	"output.9o:///Users/aleksejsafarov/Documents/go/test/sar":
+	{
+		"height": 184.0
+	},
+	"output.9o:///Users/aleksejsafarov/Documents/python":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/aleksejsafarov/Downloads/golang/ch1":
+	{
+		"height": 170.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "client.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
